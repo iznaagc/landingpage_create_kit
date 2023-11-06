@@ -8,6 +8,29 @@ React の状態変化でエラーが出てしまうことが多かったので�
 
 過去に作ってたものを刷新しただけですが。
 
+## 起動方法
+
+```bash
+git clone https://github.com/iznaagc/landingpage_create_kit.git
+
+cd landingpage_create_kit
+
+yarn install
+# もしくは
+npm install
+
+yarn run build
+# もしくは
+npm run build
+
+yarn run dev
+# もしくは
+npm run dev
+```
+
+最初に 1 回ビルドしといたほうがいい感じはしました。
+いきなり dev でもいけるかもしれませんが。
+
 ### 各ブランチの説明
 
 #### main
