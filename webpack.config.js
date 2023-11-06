@@ -113,9 +113,9 @@ module.exports = {
   ],
   // ローカル開発用環境を立ち上げる
   // 実行時にブラウザが自動的に localhost を開く
-  devServer: {
-    open: true,
-    host: "192.168.0.200",
-    port: 3000,
-  },
+  // devServer: {
+  //   open: true,
+  //   host: "192.168.0.200",
+  //   port: 3000,
+  // },
 };

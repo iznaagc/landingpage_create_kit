@@ -10,22 +10,26 @@ React の状態変化でエラーが出てしまうことが多かったので�
 
 ## 起動方法
 
+yarn でやってますが npm に置き換えても大丈夫です。
+
 ```bash
 git clone https://github.com/iznaagc/landingpage_create_kit.git
+```
 
+```bash
 cd landingpage_create_kit
+```
 
+```bash
 yarn install
-# もしくは
-npm install
+```
 
+```bash
 yarn run build
-# もしくは
-npm run build
+```
 
+```bash
 yarn run dev
-# もしくは
-npm run dev
 ```
 
 最初に 1 回ビルドしといたほうがいい感じはしました。
